@@ -1,0 +1,4 @@
+input, response
+What is my name?,"<name>"
+"what is my email?","<email>"
+"List my booked viewings","<viewings>"

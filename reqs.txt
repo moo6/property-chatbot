@@ -1,0 +1,6 @@
+python 3.12.8
+numpy
+pandas
+tabulate
+nltk
+scikit-learn
